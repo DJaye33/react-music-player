@@ -14,3 +14,12 @@
     padding: 3rem 1rem 1rem 1rem;
   }
 }
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+  .song-container {
+    img {
+      width: 60%;
+    }
+  }
+}
